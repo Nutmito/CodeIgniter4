@@ -13,7 +13,7 @@
       
   <center>
 
-    <div class="content">
+    <div class="content1">
       <h1 style="color:rgb(255, 237, 133);">👑 ADMIN 👑</h1>
       <img class="img2" src="<?php base_url(); ?>assets/img/icon2.jpg" alt="img..."><br>
       <h1 class="animate__heartBeat" style="color:#ffffff">MC-MCRAZY.NET</h1>
@@ -21,7 +21,7 @@
         <span class="button-82-shadow"></span>
         <span class="button-82-edge"></span>
         <span class="button-82-front text">
-          เกี่ยวกับฉัน!
+          เข้าสู่เว็บไซต์
         </span>
       </button>
     </div>
@@ -34,10 +34,6 @@
     </div>
     
   </center>
-
-  <footer>
-    <p>Copyright © 2022.</p>
-  </footer>
 
 </body>
 </html>
