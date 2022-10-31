@@ -36,7 +36,7 @@
   </center>
 
   <footer>
-    <p>copyright © 2022.</p>
+    <p>Copyright © 2022.</p>
   </footer>
 
 </body>
