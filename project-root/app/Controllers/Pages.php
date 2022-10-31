@@ -13,6 +13,7 @@ class Pages extends BaseController {
     }
 
     $data['title'] = ucfirst($page);
+    echo view('templates/navbar', $data);
     echo view('templates/header', $data);
     echo view('pages/'.$page, $data);
     echo view('templates/footer', $data);

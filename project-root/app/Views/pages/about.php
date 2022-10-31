@@ -1,1 +1,1 @@
-<h3>Welcome to About page</h3>
+<h3>Welcome to About page!</h3>
